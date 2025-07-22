@@ -63,7 +63,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/jomulloa/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-           <a style="margin-left: 10px;" target="_blank" href="mailto:manriquezjose100@gmail.com">
+           <a style="margin-left: 10px;" target="_blank" href="mailto:jamettchristian@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
       </div>
 
@@ -77,7 +77,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=dark" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomulloa&layout=compact&theme=dark" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krozjgg&layout=compact&theme=dark" alt="Top Langs"/>
     </td>
   </tr>
 </table>
