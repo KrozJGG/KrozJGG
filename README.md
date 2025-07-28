@@ -61,7 +61,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/jomulloa/">
+        <a   target="_blank" href="https://www.linkedin.com/in/christian-jamett-65b96a340/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
            <a style="margin-left: 10px;" target="_blank" href="mailto:jamettchristian@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
